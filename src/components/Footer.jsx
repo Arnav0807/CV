@@ -123,8 +123,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-dark-200 dark:border-dark-700 text-center">
           <p className="text-dark-600 dark:text-dark-400 flex items-center justify-center">
-            &copy; {currentYear} Arnav Arvind. All rights reserved. Made with
-            <FiHeart className="mx-1 text-red-500" /> in New Delhi
+            &copy; {currentYear} Arnav Arvind. All rights reserved.
           </p>
         </div>
       </div>
